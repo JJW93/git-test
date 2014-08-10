@@ -30,6 +30,8 @@ public class logAnalysor {
 
 	public static void main(String[] args) {
 
+		int k=0;
+		
 		try {
 
 			String fileName = "intput.log";
